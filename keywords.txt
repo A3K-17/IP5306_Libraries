@@ -1,0 +1,50 @@
+#######################################
+# Syntax Coloring Map For IP5306 Library By lewis He
+# github:https://github.com/lewisxhe/IP5306_Libraries
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+IP5306_Class	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin  KEYWORD2
+setBoostEnable  KEYWORD2
+setChargerEnable  KEYWORD2
+setPlugLoadOpened  KEYWORD2
+setBoostNormallyOpen  KEYWORD2
+setButtonPowerOffEnable  KEYWORD2
+setShutdownOption  KEYWORD2
+setLedControl  KEYWORD2
+
+setShortPressBoost  KEYWORD2
+setVinRemoveBoostOn  KEYWORD2
+setLowBatteryShutdown  KEYWORD2
+setLightLoadShutdownTime  KEYWORD2
+setChargerFullVoltage  KEYWORD2
+setBatteryStopChargerCurrent  KEYWORD2
+setChargerVoltage  KEYWORD2
+setBatteryVoltage  KEYWORD2
+setConstantPressureCharging  KEYWORD2
+
+setChargerLoopSeletc  KEYWORD2
+setChargerCurrent  KEYWORD2
+isChargerEnable  KEYWORD2
+isChargerFull  KEYWORD2
+isHeavyLoad  KEYWORD2
+isButtonDouble  KEYWORD2
+isButtonLongPress  KEYWORD2
+isButtonShortPress  KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
